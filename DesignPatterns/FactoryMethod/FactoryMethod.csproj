@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FactoryMethod\FactoryMethodMain.cs" />
+    <Compile Include="Interface\IPersonagem.cs" />
+    <Compile Include="Personagens\LiuKang.cs" />
+    <Compile Include="Personagens\Scorpion.cs" />
+    <Compile Include="Personagens\Subzero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
