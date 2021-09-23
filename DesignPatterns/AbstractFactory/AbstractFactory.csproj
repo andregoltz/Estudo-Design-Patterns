@@ -43,8 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EnergiaBase\EnergiaBaseProtoss.cs" />
+    <Compile Include="EnergiaBase\EnergiaBaseTerran.cs" />
+    <Compile Include="EnergiaBase\EnergiaBaseZerg.cs" />
+    <Compile Include="FabricaBase\FabricaBaseProtoss.cs" />
+    <Compile Include="FabricaBase\FabricaBaseTerran.cs" />
+    <Compile Include="FabricaBase\FabricaBaseZerg.cs" />
+    <Compile Include="Interface\IEnergia.cs" />
+    <Compile Include="Interface\IFabricaBases.cs" />
+    <Compile Include="Interface\IRevestimento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RevestimentoBase\RevestimentoBaseProtoss.cs" />
+    <Compile Include="RevestimentoBase\RevestimentoBaseTerran.cs" />
+    <Compile Include="RevestimentoBase\RevestimentoBaseZerg.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

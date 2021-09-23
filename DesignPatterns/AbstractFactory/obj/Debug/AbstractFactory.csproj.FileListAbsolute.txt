@@ -1,0 +1,7 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
