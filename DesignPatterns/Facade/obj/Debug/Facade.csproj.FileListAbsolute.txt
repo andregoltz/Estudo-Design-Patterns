@@ -1,0 +1,7 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Facade\obj\Debug\Facade.pdb
