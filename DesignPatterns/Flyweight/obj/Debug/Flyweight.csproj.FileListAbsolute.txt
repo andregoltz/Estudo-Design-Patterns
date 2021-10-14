@@ -1,0 +1,7 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb
