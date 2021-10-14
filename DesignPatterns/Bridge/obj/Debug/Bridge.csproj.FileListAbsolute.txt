@@ -1,0 +1,7 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
