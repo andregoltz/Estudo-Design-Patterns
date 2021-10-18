@@ -1,0 +1,7 @@
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\luizg\OneDrive\Área de Trabalho\Estudo_Desing_Patterns\Estudo-Design-Patterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
